@@ -1,0 +1,5 @@
+ultralytics
+mediapipe
+git+https://github.com/cvzone/cvzone.git
+hydra-core
+gdown==4.6.0
